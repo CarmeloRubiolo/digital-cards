@@ -1,0 +1,33 @@
+.img-fondo{
+    background-position: 40%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-image: url("../../../public//imagenes/bebe3.jpg");
+}
+.tittle-portada{
+    position: absolute;
+    top: 450px;
+    left: 70px;
+    width: 300px;
+}
+.tittle-nombre{
+    position: absolute;
+    top: 510px;
+    left: 100px;
+}
+.img-portada{
+    position: absolute;
+    top: 650px;
+    left: 150px;
+    height: 100px;
+    transform: rotate(90deg);
+}
+.img-portada2{
+    position: absolute;
+    top: 650px;
+    left: 165px;
+    height: 70px;
+    transform: rotate(90deg);
+}
