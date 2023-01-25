@@ -51,19 +51,19 @@ const CuentaRegresiva = () => {
         <>
         <div className="container-flex">
             <div className="cr-container">
-                <div className="p-2">
+                <div className="p-1">
                     <div >Días</div>
                     <div>{timerDays}</div>
                 </div>
-                <div className="p-2">
+                <div className="p-1">
                     <div>Horas</div>
                     <div>{timerHours}</div>
                 </div>
-                <div className="p-2">
+                <div className="p-1">
                     <div>Minutos</div>
                     <div>{timerMinutes}</div>
                 </div>
-                <div className="p-2">
+                <div className="p-1">
                     <div>Segundos</div>
                     <div>{timerSeconds}</div>
                 </div>
