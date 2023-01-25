@@ -14,20 +14,21 @@
     width: auto;
 }
 .tittle-portada{
+    margin-top: -10vh;
     position: absolute;
 }
 .tittle-nombre{
-    margin-top: 200px;
+    margin-top: 10vh;
     position: absolute;
 }
 .img-portada{
     position: absolute;
-    top: 720px;
+    top: 820px;
     height: 80px;
 }
 .img-portada2{
     position: absolute;
-    top: 720px;
+    top: 820px;
     height: 50px;
 }
 .bounce-top {
