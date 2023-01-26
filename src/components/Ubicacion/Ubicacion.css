@@ -1,0 +1,19 @@
+.fondo-minions{
+    background-position: 40%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+    background-image: url("../../../public/imagenes/fondo-minions.jpg");
+    z-index: -99;
+    display: flex;
+    justify-content: center;
+}
+.card-container{
+    position: absolute;
+    top: 1100px;
+    border: 2px solid black;
+}
+.btn-mapa{
+    display: flex;
+    justify-content: center;
+}
