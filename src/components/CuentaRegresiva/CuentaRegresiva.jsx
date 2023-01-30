@@ -11,7 +11,7 @@ const CuentaRegresiva = () => {
     let interval = useRef();
 
     const startTimer = () => {
-        const countdownDate = new Date('December 26, 2023 18:45:00').getTime();
+        const countdownDate = new Date('May 10, 2023 18:00:00').getTime();
 
         interval = setInterval(() => {
             const now = new Date().getTime();
